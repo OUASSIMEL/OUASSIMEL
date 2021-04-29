@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
  <h3>👨🏻‍💻 &nbsp;About Me</h3>
 
-
-- I like to explore new technologies and develop software solutions and quick hacks.
 - I'm currently studying Computer Science  at the national school of applied sciences Marrakech.
 - Currently Learning **Java**, **Python**, **Web Development** And **Machine Learning**
 - Willing to contribute more and more in **Open Source Projects**
