@@ -57,8 +57,8 @@ Here are some ideas to get you started:
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-	<a href="https://github.com/OUASSIMEL/#"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-  <a href="ouassim.elyazidi9@gmail.com"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
+	<a href="https://github.com/OUASSIMEL/#"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+        <a href="mailto:ouassim.elyazidi9@gmail.com"><img alt="mail" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/gmail.png"/></a>
 	<a href="www.linkedin.com/in/ouassimelyazidi/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://github.com/OUASSIMEL/#"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 </p>
