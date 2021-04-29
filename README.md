@@ -54,6 +54,10 @@ Here are some ideas to get you started:
 </a>
 
 
+  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ouassimel&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
+
+  
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -62,7 +66,3 @@ Here are some ideas to get you started:
 	<a href="www.linkedin.com/in/ouassimelyazidi/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://github.com/OUASSIMEL/#"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
 </p>
-  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ouassimel&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  
-
-  
